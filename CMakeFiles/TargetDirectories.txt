@@ -1,0 +1,3 @@
+/home/jarek/cpp/FizzBuzz/CMakeFiles/rebuild_cache.dir
+/home/jarek/cpp/FizzBuzz/CMakeFiles/edit_cache.dir
+/home/jarek/cpp/FizzBuzz/CMakeFiles/runTests.dir

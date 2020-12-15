@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jarek/cpp/FizzBuzz/main.cpp
+iostream
+-
+
+/home/jarek/cpp/FizzBuzz/tests.cpp
+main.cpp
+/home/jarek/cpp/FizzBuzz/main.cpp
+gtest/gtest.h
+-
+
